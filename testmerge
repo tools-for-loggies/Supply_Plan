@@ -1,3 +1,1 @@
-for(unsigned int i = 0; i < max; i++)
-    r = do_stuff(i)/2; // we need only the half
-    do_something_else(r); // Need to do something else
+Le premier réflexe à avoir est de regarder dans la documentation du projet si des recommandations sont précisées sur comment faire une pull request. Certains peuvent demander d'utiliser un format spécifique pour les messages de commit et de PR, d'ajouter des tests, etc. En général, vous trouverez ces recommandations dans le fichier README, avec un intitulé "Contributing" ou "Pull requests". 

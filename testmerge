@@ -1,5 +1,1 @@
-for(unsigned int i = 0; i < max; i++)
-    r = do_stuff(i);
-    if(r < 0) // do_stuff can return an error
-        handle_error(r);
-    do_something_else(r/2); // Need to do something else
+Voici le procédé classique que vous aurez à adapter en fonction des recommandations trouvées dans la doc : 

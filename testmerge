@@ -1,0 +1,3 @@
+int max = MAX_ITEMS;
+for(unsigned int i = 0; i < max/2; i++) // max/2: only on 1st half
+    do_stuff(i);
